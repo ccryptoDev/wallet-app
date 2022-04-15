@@ -47,6 +47,6 @@ No, please use only JavaScript. Although we use TypeScript for some projects int
     
 ### I have already spent 8 hours working on the code challenge, and it’s still a work in progress. What should I do?
 - Commit and push your work as it will help us know if you are on the right path
-    
+
 ### Can I add unit tests to my solution?
 Not only you can, you should. We love solutions backed by tests, and to tell you a little secret - you’d earn bonus points by doing that!
